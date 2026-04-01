@@ -2,7 +2,7 @@ fn main() {
     let add = 5 + 10;
     let sub = 95.5 - 4.3;
     let mul = 5 * 10;
-    let div = 95.5 / 4.3;
+    let div = 90 / 4.3;
     println!("The sum is: {add}");
     println!("The difference is: {sub}");
     println!("The product is: {mul}");
