@@ -8,7 +8,7 @@ fn main() {
     println!("The product is: {mul}");
     println!("The quotient is: {div}");
 
-    let tuple: (i32, f64, i32, 132) = (500, 6.4, 1);
+    let tuple: (i32, f64, i32, 132) = (500, 6.4, 60);
     let (x, y, z) = tuple;
     println!("The value of x is: {x}");
     println!("The value of y is: {y}");
