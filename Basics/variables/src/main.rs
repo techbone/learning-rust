@@ -11,9 +11,9 @@ fn main() {
 
     let tuple: (i32, f64, i32) = (500, 6.4, 60);
     let (x, y, z) = tuple;
-    println!("The value of x is: {x}");
-    println!("The value of y is: {y}");
-    println!("The value of z is: {z}");
+    println!("The value of x here is: {x}");
+    println!("The value of y here is: {y}");
+    println!("The value of z here is: {z}");
 
     let dev: [i32; 4] = [1, 2, 3, 4];
     let first = dev[3];
