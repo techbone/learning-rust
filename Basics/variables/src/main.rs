@@ -15,7 +15,7 @@ fn main() {
     println!("The value of y here is: {y}");
     println!("The value of z here is: {z}");
 
-    let dev: [i32; 4] = [1, 2, 3, 4];
+    let dev: [i32; 5] = [1, 2, 3, 4, 5];
     let first = dev[3];
     println!("The first element of the array is: {first}");
     
